@@ -1,0 +1,5 @@
+name: unitcell
+dependencies:
+  - python
+  - numpy
+  - scikit-learn
